@@ -16,7 +16,7 @@
         body {
             font-family: 'Open Sans', sans-serif;
             background-color: #f8f9fa;
-            margin-top: 60px; /* Ajustar para que no se superponga al navbar */
+            margin-top: 60px; 
         }
 
         .navbar {
